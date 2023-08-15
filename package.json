@@ -1,0 +1,17 @@
+{
+  "name": "casbin-sample",
+  "version": "1.0.0",
+  "description": "RBAC model with domains and Super Admin sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "longgt <gtlong.hcmus@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "casbin": "^5.26.2"
+  },
+    "engines": {
+    "node": ">=14"
+  }
+}
